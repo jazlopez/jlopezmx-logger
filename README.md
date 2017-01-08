@@ -1,2 +1,2 @@
-# jlopezmx-logger
-Singleton pattern logger implementation using MonoLog. Simple configuration that allow you to control log dates, messages, and log levels.
+# jlopezmx/simple-logging
+A singleton logger implementation using MonoLog with simple configuration to control format dates, messages and log files.
