@@ -10,5 +10,6 @@
             "name": "Jaziel Lopez",
             "email": "juan.jaziel@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable",
 }
