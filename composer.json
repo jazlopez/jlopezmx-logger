@@ -1,7 +1,8 @@
 {
     "name": "jlopezmx/simple-logging",
     "description": "A singleton logger implementation using MonoLog with simple configuration to control format dates, messages and log files.",
-    "type": "package",
+    "type": "library",
+    "license": " MIT",
     "require": {
         "monolog/monolog": "^1.22"
     },
