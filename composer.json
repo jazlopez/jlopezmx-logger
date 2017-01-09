@@ -9,8 +9,14 @@
     "authors": [
         {
             "name": "Jaziel Lopez",
-            "email": "juan.jaziel@gmail.com"
+            "email": "juan.jaziel@gmail.com",
+            "role": "Software Developer",
+            "homepage": "http://jlopez.mx"
         }
     ],
-    "minimum-stability": "stable"
+    "autoload": {
+        "psr-4": {
+            "JlopezMX\\": ""
+        }
+    }
 }
